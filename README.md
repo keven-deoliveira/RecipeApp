@@ -1,5 +1,5 @@
 # RecipeApp
-##**Table of Contents** 
+##<**Table of Contents**>
 
 ##**Installation**
 We used Google's Android Studio to build the program
