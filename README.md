@@ -12,6 +12,6 @@ The app consists of the first page that will allow the user to choose their diet
 ## **Tests**
 
 ## **Team Name and Contributers**
-HealthyHelpers
+HealthyHelpers\n
 Sofia Briquet (sbriquet), Keven Deoliveira (kevend), Prithika Ganesh (pvganesh), Grace Kim (vzgrace), Anika Sharma (ansharma)
 
