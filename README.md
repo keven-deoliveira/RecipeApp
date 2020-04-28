@@ -11,7 +11,7 @@ The app consists of the first page that will allow the user to choose their diet
   
 ## **Tests**
 
-## **Team Name **
+## **Team Name**
 HealthyHelpers
 
 ## **Contributers**
