@@ -3,6 +3,7 @@
 
 ## **Installation**
 We used Google's Android Studio to build the program
+
 Packages, Compilers, and other Dependencies used:
    Android Studio, SDK 30.0, NDK 21.0, Android Emulator
     
