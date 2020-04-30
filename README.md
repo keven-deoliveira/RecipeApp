@@ -10,7 +10,12 @@ Packages, Compilers, and other Dependencies used:
 ## **Features of our program**
 The app consists of the first page that will allow the user to choose their dietary restriction as well as an ingredient from each food category. Then, the app will produce a few recipes that match the inputted ingredients. The users can then look at the recipes in greater detail by clicking on each. This program should be relatively simple to use because it is marketed as a simple app that anyone can use in a pinch.
   
-## **Tests**
+## **Screenshots**
+![Main Page](https://github.com/keven-deoliveira/RecipeApp/blob/images/mainpage.png)
+
+![Choosing Ingredients](https://github.com/keven-deoliveira/RecipeApp/blob/images/secondpage.png)
+
+![Results Page](https://github.com/keven-deoliveira/RecipeApp/blob/images/thirdpage.png)
 
 ## **Team Name**
 HealthyHelpers
