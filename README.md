@@ -1,6 +1,16 @@
 # RecipeApp
 ## **Table of Contents**
 
+Installation
+
+Features of our Program
+
+Screenshots
+
+Team Name
+
+Contributors
+
 ## **Installation**
 We used Google's Android Studio to build the program
 
